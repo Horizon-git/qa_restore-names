@@ -58,7 +58,7 @@ describe('restoreNames', () => {
       {
         firstName: undefined,
         lastName: 'Adams',
-        fullName: '',
+        fullName: undefined,
       },
     ];
 
